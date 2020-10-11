@@ -1,0 +1,32 @@
+.payment{
+    background-color: rgb(245, 248, 252);
+ height:1500px;
+ margin:-2px;
+ padding:20px;
+ border-bottom: 1px solid lightgray;
+}
+
+.delivery_address{
+ background-color: white;
+ padding:20px;
+ border-bottom: 1px solid lightgray;
+ /* border-bottom: 1px solid gray; */
+}
+
+.review{
+    background-color: white;
+ padding:20px;
+ margin:5px;
+ border-bottom: 1px solid lightgray;
+}
+
+.check{
+    /* display: flex; */
+    /* justify-content: space-evenly; */
+    /* flex-wrap: wrap; */
+    /* padding: 10px 30px; */
+    background-color: white;
+    padding:20px;
+    margin:5px;
+    border-bottom: 1px solid lightgray;
+}

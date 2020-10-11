@@ -1,0 +1,17 @@
+.subtotal{
+ display:flex;
+ background-color:rgba(247, 244, 244, 0.89);
+ flex-direction: column;
+ width: 700px;
+ padding:40px;
+ align-items: center;
+ border:1px solid black;
+ height:150px;
+ justify-content: space-between;
+ justify-self: end;
+ margin:2px;
+ margin-left:20px;
+ border-radius: 5px;
+ /* margin-right:-s */
+
+}
