@@ -1,3 +1,6 @@
+Live demo:https://ecommerce-d8c84.web.app/
+
+
 This project is a demonstation of how actual ecommerce website works
 Functinalities
 1)Login/Signup
